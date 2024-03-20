@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-im working on NoC using h-star ring topologies
-especially core mapping
+im working on NoC using h-star ring topologies, specifically core mapping
 <!--
 **thomastiju/thomastiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
